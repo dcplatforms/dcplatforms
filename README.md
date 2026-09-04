@@ -1,6 +1,6 @@
 # Tom Callahan
 
-**Cloud application engineer** building with **cloud frameworks** — platforms, APIs, and deployable apps across commerce, energy, and secure multi-service systems.
+**Platform developer** building with various **cloud frameworks** platforms, APIs, and deployable apps across commerce, energy, and secure multi-service systems.
 
 Washington, DC · [github.com/dcplatforms](https://github.com/dcplatforms)
 
