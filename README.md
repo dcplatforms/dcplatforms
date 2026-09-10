@@ -1,9 +1,6 @@
 # Welcome to my Cloud
 
 **Platform developer** building with various **cloud frameworks** platforms, APIs, and deployable apps across commerce, energy, and secure multi-service systems.
-
-Washington, DC · [github.com/dcplatforms](https://github.com/dcplatforms)
-
 ---
 
 ## Focus
